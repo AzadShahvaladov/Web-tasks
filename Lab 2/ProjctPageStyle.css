@@ -1,0 +1,53 @@
+header {
+    text-align: center;
+    border: 2px solid black;
+    height: 50px;
+}
+
+aside p {
+    border: 3px solid black;
+    border-radius: 999px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 6.5;
+    margin: auto
+}
+
+.circle {
+    margin-top: 20px
+}
+
+.container {
+    display: flex;
+    justify-content: space-around
+}
+
+.middle {
+    border: 3px solid black;
+    width: 45%;
+    height: 30rem;
+    margin-top: 10px;
+}
+
+.middle ol li {
+    margin-top: 30px;
+}
+
+
+.main-container {
+    border: 3px solid black;
+}
+
+.banner {
+    text-align: center;
+    border: 3px solid black;
+    height: 100rem;
+}
+
+.highlights {
+    text-align: center;
+    border: 3px solid black;
+    width: 15%;
+
+}
